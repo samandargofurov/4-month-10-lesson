@@ -41,10 +41,10 @@
 
 // 5. Sonlardan tashkil topgan massiv teskari tartibda yozib uni yozuv korinishiga o'tkazib beruvchi funksiya yozing.
 
-let massive = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
+// let massive = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
 
-let arr1 = massive.reverse().map((v) => {
-    return v.toString();
-})
+// let arr1 = massive.reverse().map((v) => {
+//     return v.toString();
+// })
 
-console.log(arr1);
+// console.log(arr1);
